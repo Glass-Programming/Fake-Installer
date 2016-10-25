@@ -1,0 +1,9 @@
+c:\users\glass\documents\visual studio 2015\Projects\Form Guy 1\Form Guy 1\bin\Debug\Form Guy 1.exe.config
+C:\Users\Glass\documents\visual studio 2015\Projects\Form Guy 1\Form Guy 1\bin\Debug\Form Guy 1.exe
+C:\Users\Glass\documents\visual studio 2015\Projects\Form Guy 1\Form Guy 1\bin\Debug\Form Guy 1.pdb
+C:\Users\Glass\documents\visual studio 2015\Projects\Form Guy 1\Form Guy 1\obj\Debug\Form Guy 1.csprojResolveAssemblyReference.cache
+C:\Users\Glass\documents\visual studio 2015\Projects\Form Guy 1\Form Guy 1\obj\Debug\Form_Guy_1.Form1.resources
+C:\Users\Glass\documents\visual studio 2015\Projects\Form Guy 1\Form Guy 1\obj\Debug\Form_Guy_1.Properties.Resources.resources
+C:\Users\Glass\documents\visual studio 2015\Projects\Form Guy 1\Form Guy 1\obj\Debug\Form Guy 1.csproj.GenerateResource.Cache
+C:\Users\Glass\documents\visual studio 2015\Projects\Form Guy 1\Form Guy 1\obj\Debug\Form Guy 1.exe
+C:\Users\Glass\documents\visual studio 2015\Projects\Form Guy 1\Form Guy 1\obj\Debug\Form Guy 1.pdb
